@@ -1,4 +1,5 @@
-#Roll no.:
+#Name : Nishat Wasi
+#Roll no.:15
 f = open("integers.txt","r")
 while True:
     line = f.readline()
